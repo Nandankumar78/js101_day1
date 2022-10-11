@@ -1,0 +1,16 @@
+let name="Name___Nandan";
+let school="school___MES";
+let grade="grade=9";
+let section="section=A";
+let rno="Roll number=248";
+let p="Physics=95";
+let b="Biology=99";
+let c="Chemistry=89";
+console.log(name);
+console.log(school);
+console.log(grade);
+console.log(section);
+console.log(rno);
+console.log(p);
+console.log(b);
+console.log(c);
